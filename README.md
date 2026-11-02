@@ -1,6 +1,6 @@
-# Numerical checks for "Root-of-unity limit of the A_{n-1} lens elliptic gamma function solution of the star-star relation"
+# Numerical checks for "Root-of-unity limit of the A_{n-1} lens elliptic gamma function solution of the star-star relation," arXiv:2610.41438 [math-ph] by Masahito Yamazaki
 
-Scripts used for the numerical checks summarized in Appendix F (Table 2) of the paper by M. Yamazaki.
+Scripts used for the numerical checks summarized in Appendix F (Table 2) of the paper.
 
 ## Requirements and usage
 
