@@ -1,6 +1,6 @@
 # Numerical checks for "Root-of-unity limit of the A_{n-1} lens elliptic gamma function solution of the star-star relation," arXiv:2610.41438 [math-ph] by Masahito Yamazaki
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037137.svg)](https://doi.org/10.5281/zenodo.24037137)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24037028.svg)](https://doi.org/10.5281/zenodo.24037028)
 
 AI-generated scripts used for the numerical checks summarized in Appendix F (Table 2) of the paper.
 
