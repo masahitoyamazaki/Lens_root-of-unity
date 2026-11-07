@@ -9,12 +9,12 @@ authors:
     given-names: Masahito
     email: masahito.yamazaki@ipmu.jp
     affiliation: "Kavli IPMU (WPI), UTIAS, University of Tokyo"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-07
 license: MIT
 repository-code: "https://github.com/masahitoyamazaki/Lens_root-of-unity"
 abstract: >-
-  Python scripts used for the numerical checks summarized in Appendix F
+  AI-generated Python scripts used for the numerical checks summarized in Appendix F
   (Table 2) of arXiv:2610.41438, covering the lens elliptic gamma function
   solution of the star-star relation, its root-of-unity limit and
   quasi-classical expansion, the resulting discrete spin solutions, elliptic
