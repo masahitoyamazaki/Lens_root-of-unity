@@ -93,3 +93,7 @@ Equation names below are the LaTeX labels of the paper.
 | `bkms_pure.py`, `bkms_final.py` | `dssr` with the weights `BKMSform` |
 | `bkms_original.py` | `dssr` with the original BKMS weights (CMP 138 (1991) 393, (0.4)–(0.7)) |
 | `bkms_literal.py`, `bkms_variants.py`, `bkms_ident_scan.py` | compressed BKMS form of arXiv:2502.17545 (footnote in Sec. 7.2) |
+
+## License
+
+MIT (see `LICENSE`). If you use this code, please cite arXiv:2610.41438 (see `CITATION.cff`).

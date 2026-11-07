@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: >-
+  Numerical checks for "Root-of-unity limit of the A_{n-1} lens elliptic
+  gamma function solution of the star-star relation"
+type: software
+authors:
+  - family-names: Yamazaki
+    given-names: Masahito
+    email: masahito.yamazaki@ipmu.jp
+    affiliation: "Kavli IPMU (WPI), UTIAS, University of Tokyo"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+repository-code: "https://github.com/masahitoyamazaki/Lens_root-of-unity"
+abstract: >-
+  Python scripts used for the numerical checks summarized in Appendix F
+  (Table 2) of arXiv:2610.41438, covering the lens elliptic gamma function
+  solution of the star-star relation, its root-of-unity limit and
+  quasi-classical expansion, the resulting discrete spin solutions, elliptic
+  sl(n) Kashiwara-Miwa type models (including the Quano-Fujii model), and the
+  trigonometric limit.
+keywords:
+  - star-star relation
+  - lens elliptic gamma function
+  - root of unity
+  - Yang-Baxter equation
+  - integrable lattice models
+  - Kashiwara-Miwa model
+preferred-citation:
+  type: article
+  title: >-
+    Root-of-unity limit of the A_{n-1} lens elliptic gamma function solution
+    of the star-star relation
+  authors:
+    - family-names: Yamazaki
+      given-names: Masahito
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2610.41438"
+  url: "https://arxiv.org/abs/2610.41438"
